@@ -1,2 +1,7 @@
-# Introduction
+# BNBU 手冊
 
+## 选个语言再读吧！揀個語言先讀咯！
+---
+简体中文（国语）: [自由丰富的 BNBU 知识手册](./docs/README.md)
+繁體中文（粵語）: [自由豐富嘅 BNBU 知識手冊](./docs/README_yue.md)
+---
