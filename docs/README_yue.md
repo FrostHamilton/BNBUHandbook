@@ -53,8 +53,6 @@ description: 自由豐富嘅 BNBU 知識手冊
 
 <img src=./assets/icon/rect-by-nc-sa.png width=10% />
 
----
-
 > 粵語校對：[TurboHK](https://github.com/TurboHK)
 
 ---
