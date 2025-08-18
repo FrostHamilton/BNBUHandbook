@@ -55,6 +55,10 @@ description: 自由豐富嘅 BNBU 知識手冊
 
 ---
 
+> 粵語校對：[TurboHK](https://github.com/TurboHK)
+
+---
+
 [專案位址](https://github.com/PhoenixTechProject/BNBUHandbook)
 
 <div id="ww_23ee3aacb4024" v='1.3' loc='id' a='{"t":"responsive","lang":"zh","sl_lpl":1,"ids":["wl11466"],"font":"Arial","sl_ics":"one_a","sl_sot":"celsius","cl_bkg":"image","cl_font":"#FFFFFF","cl_cloud":"#FFFFFF","cl_persp":"#81D4FA","cl_sun":"#FFC107","cl_moon":"#FFC107","cl_thund":"#FF5722","cl_odd":"#FFFFFF17"}'><a href="https://weatherwidget.org/" id="ww_23ee3aacb4024_u" target="_blank">Free weather widget for website</a></div><script async src="https://app3.weatherwidget.org/js/?id=ww_23ee3aacb4024"></script>
