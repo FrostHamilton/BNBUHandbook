@@ -2,6 +2,8 @@
 description: 自由豐富嘅 BNBU 知識手冊
 ---
 
+> 粵語校對：[TurboHK](https://github.com/TurboHK)
+
 [按此去国语版](./README.md)
 
 # 🏫 BNBU 手册
@@ -52,8 +54,6 @@ description: 自由豐富嘅 BNBU 知識手冊
 全站知識資源冇特別聲明嘅，一律跟住 [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 協議發放。
 
 <img src=./assets/icon/rect-by-nc-sa.png width=10% />
-
-> 粵語校對：[TurboHK](https://github.com/TurboHK)
 
 ---
 
